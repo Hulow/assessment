@@ -1,4 +1,6 @@
+
 # Feature based Clean Architecture
+
 
 Hello, 
 
@@ -6,7 +8,14 @@ FYI I did not touch any single line of code in this assessment. (except for the 
 
 this project follows a feature-based Clean Architecture adapted for React and TypeScript.
 
-
+<p align="center">
+  <img
+    width="471"
+    height="471"
+    alt="clean-architecture-layers"
+    src="https://github.com/user-attachments/assets/caf8f841-3c92-4304-b7df-877789538e07"
+  />
+</p>
 
 This architecture enforces strict separation between:
 
